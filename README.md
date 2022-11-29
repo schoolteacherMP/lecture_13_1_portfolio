@@ -11,18 +11,18 @@ https://www.figma.com/file/pi9JgEaI126xmb0zWX8I04/Portfolio-(Copy)
 -  два списка ul > li > a (панель навигации, ссылки на соцсети) 
 -  десять кнопок ```html <button> ```
 -  два инпута:```html <input type="email"> и <input type="tel"> ```
--  один элемент <textarea> ```
+-  один элемент ```html<textarea> ```
 -  три атрибута placeholder   
 
 ## Вёрстка соответствует макету 
-блок <header> ```
+блок```html <header> ```
 секция hero 
 секция skills 
 секция portfolio 
 секция video 
 секция price 
 секция contacts 
-блок <footer> ```
+блок```html <footer> ```
 ## Требования к css 
 для построения сетки используются флексы или гриды 
 при уменьшении масштаба страницы браузера вёрстка размещается по центру, а не сдвигается в сторону 
