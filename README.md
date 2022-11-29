@@ -1,7 +1,7 @@
 https://www.figma.com/file/pi9JgEaI126xmb0zWX8I04/Portfolio-(Copy)
 
-#1. Cтраница main (index.html)  
-##1.1 header 
+# 1. Cтраница main (index.html)  
+## 1.1 header 
 - высота блока 100px  
 - логотип интерактивный (ссылка на главную страницу), размер svg 100px    
 - панель навигации интерактивная (использовать ul, li, nav, a): при наведении курсор меняется, появляется подчеркивание и меняется цвет (text-decoration: underline; color: blanchedalmond;), применить псевдокласс :hover 
