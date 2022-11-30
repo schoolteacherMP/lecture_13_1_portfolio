@@ -1,4 +1,4 @@
-https://www.figma.com/file/pi9JgEaI126xmb0zWX8I04/Portfolio-(Copy)
+ [Макет в фигме](https://www.figma.com/file/pi9JgEaI126xmb0zWX8I04/Portfolio-(Copy))
 
 # Требования к вёрстке  
 # Вёрстка семантическая:   
@@ -14,7 +14,7 @@ https://www.figma.com/file/pi9JgEaI126xmb0zWX8I04/Portfolio-(Copy)
 -  один элемент ```html<textarea> ```
 -  три атрибута placeholder   
 
-## Вёрстка соответствует макету 
+## Вёрстка соответствует   [макету](https://www.figma.com/file/pi9JgEaI126xmb0zWX8I04/Portfolio-(Copy))
 блок```html <header> ```
 секция hero 
 секция skills 
