@@ -4,7 +4,6 @@
  
  [Советы по выполнению portfolio](https://github.com/schoolteacherMP/lecture_13_1_portfolio/blob/main/ImplementationTipsPortfolio.md)  
  
- 
 ##  Описание проекта  
 Portfolio – задание в ходе выполнения которого вы сверстаете landing page портфолио фотографа.  
 ## Ключевые навыки:   
